@@ -2600,6 +2600,14 @@
     "artist" : "Phil Harris & Bruce Reitherman"
   },
   {
+    "genre" : "Soundtrack",
+    "id" : "976722722195835511",
+    "title" : "Baron Samedi's Dance of Death",
+    "album" : "Live and Let Die",
+    "rating" : 4,
+    "artist" : "George Martin"
+  },
+  {
     "genre" : "Rock",
     "id" : "8584116117149213092",
     "title" : "Bat Out of Hell",
@@ -13116,7 +13124,7 @@
     "id" : "8215072574828855200",
     "title" : "Flyswatter",
     "album" : "Daisies of the Galaxy",
-    "rating" : 0,
+    "rating" : 4,
     "artist" : "Eels"
   },
   {
