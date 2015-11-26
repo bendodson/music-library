@@ -324,7 +324,7 @@
     "id" : "4294011543986510762",
     "title" : "Afternoon Delight",
     "album" : "Anchorman (Soundtrack from the Motion Picture)",
-    "rating" : 5,
+    "rating" : 0,
     "artist" : "Will Ferrell"
   },
   {
@@ -484,7 +484,7 @@
     "id" : "8584116117149213174",
     "title" : "Alejandro",
     "album" : "Alejandro - Single",
-    "rating" : 4,
+    "rating" : 0,
     "artist" : "Lady Gaga"
   },
   {
@@ -6708,7 +6708,7 @@
     "id" : "2105107777766716948",
     "title" : "Clap Your Hands",
     "album" : "We Are Born",
-    "rating" : 0,
+    "rating" : 5,
     "artist" : "Sia"
   },
   {
@@ -36540,7 +36540,7 @@
     "id" : "8907201645124601657",
     "title" : "Self Control",
     "album" : "Self Control",
-    "rating" : 0,
+    "rating" : 5,
     "artist" : "Laura Branigan"
   },
   {
