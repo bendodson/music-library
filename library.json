@@ -8016,6 +8016,14 @@
     "artist" : "The Bombay Royale"
   },
   {
+    "genre" : "Pop",
+    "id" : "1610970420230648654",
+    "title" : "DADDY (feat. CL)",
+    "album" : "Psy 7th Album",
+    "rating" : 0,
+    "artist" : "PSY"
+  },
+  {
     "genre" : "Video Game",
     "id" : "8584116117149209862",
     "title" : "Daddy's Got the Blues",
@@ -16804,7 +16812,7 @@
     "id" : "8584116117149211254",
     "title" : "Hello Heartache",
     "album" : "Avril Lavigne (Deluxe Version)",
-    "rating" : 0,
+    "rating" : 4,
     "artist" : "Avril Lavigne"
   },
   {
@@ -18596,7 +18604,7 @@
     "id" : "8584116117149212407",
     "title" : "I Don't Think Now Is The Best Time",
     "album" : "Pirates Of The Caribbean: At World's End",
-    "rating" : 0,
+    "rating" : 5,
     "artist" : "Hans Zimmer"
   },
   {
@@ -20328,7 +20336,7 @@
     "artist" : "Masashi Hamauzu"
   },
   {
-    "genre" : "Rock",
+    "genre" : "Pop",
     "id" : "6939507222217625038",
     "title" : "In the Summertime",
     "album" : "In the Summertime",
@@ -25041,19 +25049,19 @@
   },
   {
     "genre" : "Pop",
-    "id" : "6592337971053644708",
-    "title" : "Lovefool",
-    "album" : "Wonders of the World",
-    "rating" : 0,
-    "artist" : "The Lost Fingers"
-  },
-  {
-    "genre" : "Pop",
     "id" : "6592337971053643580",
     "title" : "Lovefool",
     "album" : "First Band On The Moon",
     "rating" : 5,
     "artist" : "The Cardigans"
+  },
+  {
+    "genre" : "Pop",
+    "id" : "6592337971053644708",
+    "title" : "Lovefool",
+    "album" : "Wonders of the World",
+    "rating" : 0,
+    "artist" : "The Lost Fingers"
   },
   {
     "genre" : "Pop",
@@ -30668,7 +30676,7 @@
     "id" : "8584116117149211292",
     "title" : "One Of Those Girls",
     "album" : "The Best Damn Thing",
-    "rating" : 0,
+    "rating" : 3,
     "artist" : "Avril Lavigne"
   },
   {
@@ -34908,7 +34916,7 @@
     "id" : "8584116117149212255",
     "title" : "Rooftop to the Street",
     "album" : "All Shapes & Disguises",
-    "rating" : 3,
+    "rating" : 4,
     "artist" : "Tonight Alive"
   },
   {
@@ -36812,7 +36820,7 @@
     "id" : "8584116117149212487",
     "title" : "Shame For You",
     "album" : "Alright, Still",
-    "rating" : 0,
+    "rating" : 4,
     "artist" : "Lily Allen"
   },
   {
